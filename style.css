@@ -131,8 +131,7 @@ aside {
 }
 
 ul {
-    margin: 10px;
-    padding: 10px;
+    margin: auto;
     list-style-type: '\2714\020\020';
     columns: 2;
     list-style-position: inside;
@@ -157,5 +156,5 @@ aside > p {
 footer {
     text-align: center;
     color: var(--cor0);
-    background-color: var(--cor2)
+    background-color: var(--cor2);
 }
