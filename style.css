@@ -4,7 +4,7 @@
   
 @font-face {
     font-family: 'android';
-    src: url(/fontes/idroid.otf) format('opentype');
+    src: url(../fontes/idroid.otf) format('opentype');
     font-weight: normal;
 }
 
@@ -18,7 +18,7 @@
     --cor6 : rgb(192, 255, 182);
 
     --fonte-n : Arial, sans-serif;
-    --fonte-p : 'android' , cursive;
+    --fonte-p : android, cursive;
     --font-h: Oswald, Arial, sans-serif
 }
 
@@ -100,11 +100,7 @@ article > h2 {
 }
 
 
-img {
-    display: block;
-    margin: auto;
-    width: 100%;
-}
+
 
 
 
